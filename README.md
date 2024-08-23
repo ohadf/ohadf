@@ -6,8 +6,8 @@
 
 ###### Connect with me:
 
-![GitHub-Mark-Dark](icons/globe-dark.svg#gh-dark-mode-only){:width="22px"}
-![GitHub-Mark-Light](icons/globe-light.svg#gh-light-mode-only){:width="22px"}
+<!--![GitHub-Mark-Dark](icons/globe-dark.svg#gh-dark-mode-only)
+![GitHub-Mark-Light](icons/globe-light.svg#gh-light-mode-only)-->
 
 [<img align="left" alt="Ohad | Website" width="22px" src="icons/globe-dark.svg#gh-dark-mode-only" />][website]
 [<img align="left" alt="Ohad | Website" width="22px" src="icons/globe-light.svg#gh-light-mode-only" />][website]
