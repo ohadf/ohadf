@@ -6,10 +6,17 @@
 
 ###### Connect with me:
 
-[<img align="left" alt="Ohad | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ohad | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Ohad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ohad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ohad | Website" width="22px" src="icons/globe-dark.svg#gh-dark-mode-only" />][website]
+[<img align="left" alt="Ohad | Website" width="22px" src="icons/globe-light.svg#gh-light-mode-only" />][website]
+
+[<img align="left" alt="Ohad | YouTube" width="22px" src="icons/youtube-dark.svg#gh-dark-mode-only" />][youtube]
+[<img align="left" alt="Ohad | YouTube" width="22px" src="icons/youtube-light.svg#gh-light-mode-only" />][youtube]
+
+[<img align="left" alt="Ohad | LinkedIn" width="22px" src="icons/linkedin-dark.svg#gh-dark-mode-only" />][linkedin]
+[<img align="left" alt="Ohad | LinkedIn" width="22px" src="icons/linkedin-light.svg#gh-light-mode-only" />][linkedin]
+
+[<img align="left" alt="Ohad | Twitter" width="22px" src="icons/twitter-dark.svg#gh-dark-mode-only" />][twitter]
+[<img align="left" alt="Ohad | Twitter" width="22px" src="icons/twitter-light.svg#gh-light-mode-only" />][twitter]
 
 [website]: https://www.ohadf.com
 [youtube]: https://youtube.com/c/ohadfried
