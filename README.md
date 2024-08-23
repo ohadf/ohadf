@@ -6,8 +6,8 @@
 
 ###### Connect with me:
 
-[<img align="left" alt="Ohad | Website" width="22px" src="icons/globe-dark.svg#gh-dark-mode-only" />][website]
-[<img align="left" alt="Ohad | Website" width="22px" src="icons/globe-light.svg#gh-light-mode-only" />][website]
+![GitHub-Mark-Dark][<img align="left" alt="Ohad | Website" width="22px" src="icons/globe-dark.svg#gh-dark-mode-only" />][website]
+![GitHub-Mark-Light][<img align="left" alt="Ohad | Website" width="22px" src="icons/globe-light.svg#gh-light-mode-only" />][website]
 
 [<img align="left" alt="Ohad | YouTube" width="22px" src="icons/youtube-dark.svg#gh-dark-mode-only" />][youtube]
 [<img align="left" alt="Ohad | YouTube" width="22px" src="icons/youtube-light.svg#gh-light-mode-only" />][youtube]
