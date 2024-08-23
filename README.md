@@ -9,6 +9,11 @@
 <!--![GitHub-Mark-Dark](icons/globe-dark.svg#gh-dark-mode-only)
 ![GitHub-Mark-Light](icons/globe-light.svg#gh-light-mode-only)-->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/globe-dark.svg">
+  <img align="left" width="22px" alt="Ohad | Website" src="icons/globe-light.svg">
+</picture>
+
 [<img align="left" alt="Ohad | Website" width="22px" src="icons/globe-dark.svg#gh-dark-mode-only" />][website]
 [<img align="left" alt="Ohad | Website" width="22px" src="icons/globe-light.svg#gh-light-mode-only" />][website]
 
